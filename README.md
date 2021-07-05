@@ -10,7 +10,7 @@
 ### Languages and Tools:
 - Programming: Python/Java
 - OS: Windows, Linux
-- Other: AWS, Terraform, Docker, Bash, Git/Github/
+- Other: AWS, Terraform, Docker, Bash, Git/Github
 - Certifications: AWS Certified Solutions Architect - Associate 6/17/21
 ---
 
