@@ -4,7 +4,7 @@
 -  Current learning cloud and CI/CD tools
 -  Want to learn more about databases and container orchestration
 -  My goal for this year is to get involved with clubs and hopefully get an internship
-
+-  Love orchestral music and rhythm games
 <br />
 
 ### Languages and Tools:
