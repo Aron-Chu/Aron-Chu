@@ -10,7 +10,7 @@
 - Programming: Python/Java
 - OS: Windows, Linux
 - Other: AWS, Terraform, Docker, Bash, Git/Github, Nodered, Grafana, Jenkins, Ansible
-- DB: InfluxDB
+- DB: InfluxDB, MongoDB, InfluxDB
 - Certifications: AWS Certified Solutions Architect - Associate 6/17/21
 ---
 
