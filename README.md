@@ -1,10 +1,5 @@
 # Aron Chu
 
-### Hello, I am a computer science student at ASU
--  Currently learning cloud and CI/CD tools
--  Want to learn more about databases and container orchestration
--  Love orchestral music and rhythm games
-<br />
 
 ### Languages and Tools:
 - Programming: Python/Java
